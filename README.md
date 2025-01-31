@@ -2,9 +2,9 @@
  <h4>   <a href="https://www.webmd.com/sex-relationships/what-is-transgender"><img title="Transgender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/255px-Transgender_Pride_flag.svg.png" width="40"/>   <a href="https://www.apa.org/pi/lgbt/resources/bisexual"><img title="Bisexual" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/255px-Bisexual_Pride_Flag.svg.png" width="40"/>
 
 
-## Hi I'm the programmer that will make you blame me for everything!
+## What I Do
 
-I tend to program in Haxe, C#, and C++ but I am open to learn new things.
+I often program in Haxe and/or lua, but I am open to learn new things.
 If you wish to contact me I reccomend talking to me on Discord. It's the fastest way to talk to me.
 Currently I am in high school trying to get into collage so I can get a degree in video game programming.
 As of right now I'm in the Hawktimus Prime robotics team. 
