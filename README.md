@@ -6,5 +6,5 @@ Currently I am in high school trying to get into collage so I can get a degree i
 As of right now I'm in the Hawktimus Prime robotics team. 
 You can check out their repo's by looking at what organizations I'm in.
 
-### Coding Languages I use
+# Coding Languages I use
 <h4>   <a href="https://lua.org"><img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>   <a href="https://haxe.org"><img title="Haxe" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="48"/>  <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170"><img title="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="48"> </h4> 
