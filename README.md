@@ -1,5 +1,5 @@
 ### (っ◔◡◔)っ ♥ Introduction ♥
- <h4>   <a href="https://www.webmd.com/sex-relationships/what-is-transgender"><img title="Transgender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/255px-Transgender_Pride_flag.svg.png" width="40"/> <h4>   <a href="https://www.apa.org/pi/lgbt/resources/bisexual"><img title="Bisexual" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/255px-Bisexual_Pride_Flag.svg.png" width="40"/>
+ <h4>   <a href="https://www.webmd.com/sex-relationships/what-is-transgender"><img title="Transgender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/255px-Transgender_Pride_flag.svg.png" width="40"/>   <a href="https://www.apa.org/pi/lgbt/resources/bisexual"><img title="Bisexual" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/255px-Bisexual_Pride_Flag.svg.png" width="40"/>
 
 
 ## Hi I'm the programmer that will make you blame me for everything!
