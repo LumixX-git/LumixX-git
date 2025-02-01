@@ -1,4 +1,4 @@
-### (っ◔◡◔)っ ♥ Introduction ♥
+# (っ◔◡◔)っ ♥ Introduction ♥
  <h4>   <a href="https://www.webmd.com/sex-relationships/what-is-transgender"><img title="Transgender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/255px-Transgender_Pride_flag.svg.png" width="40"/>   <a href="https://www.apa.org/pi/lgbt/resources/bisexual"><img title="Bisexual" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/255px-Bisexual_Pride_Flag.svg.png" width="40"/> </h4> 
 
   
@@ -18,3 +18,9 @@ You can check out their repo's by looking at what organizations I'm in.
 
 ![](https://github-readme-stats.vercel.app/api?username=LumixX-git&show_icons=true&theme=nord)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumixX-git&layout=compact&show_icons=true&theme=nord)
+
+# Thanks for reading!
+[![Kuromi](https://user-images.githubusercontent.com/22229331/206884658-b0d70638-1b51-4bff-a9c0-9219393b6561.gif)]
+
+
+
