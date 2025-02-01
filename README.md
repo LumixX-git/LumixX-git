@@ -20,7 +20,7 @@ You can check out their repo's by looking at what organizations I'm in.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumixX-git&layout=compact&show_icons=true&theme=nord)
 
 # Thanks for reading!
-![Kuromi](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b86bdb4-540f-4240-bed6-228912593dc2/dglrk0h-7ba9760c-7366-4e98-b11c-9f31eeb56ace.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiODZiZGI0LTU0MGYtNDI0MC1iZWQ2LTIyODkxMjU5M2RjMlwvZGdscmswaC03YmE5NzYwYy03MzY2LTRlOTgtYjExYy05ZjMxZWViNTZhY2UuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jIPtOJL-yphV8VExtb6Jevo7RAei2UyQLj56afOKZlQ)
+![Kuromi](https://www.icegif.com/wp-content/uploads/2023/06/icegif-1266.gif)
 
 
 
