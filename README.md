@@ -20,7 +20,7 @@ You can check out their repo's by looking at what organizations I'm in.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumixX-git&layout=compact&show_icons=true&theme=nord)
 
 # Thanks for reading!
-![Kuromi](https://www.icegif.com/wp-content/uploads/2023/06/icegif-1266.gif)
+![Kuromi](https://i.pinimg.com/originals/0d/fb/3a/0dfb3a09665a1816df83090fa58c0e4d.gif)
 
 
 
