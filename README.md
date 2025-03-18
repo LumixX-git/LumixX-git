@@ -8,8 +8,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=LumixX-git&show_icons=true&theme=nord)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumixX-git&layout=compact&show_icons=true&theme=nord)
 
-# Thanks for reading!
-![Kuromi](https://i.pinimg.com/originals/0d/fb/3a/0dfb3a09665a1816df83090fa58c0e4d.gif)
-
 
 
