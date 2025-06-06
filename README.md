@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile 👋
 Hello! I am a programmer who goes by the username LumixX on the internet.
 I develope video games and help with FRC stuff.
-I'm actually the owner of a video development team called Team Redefined so go check us out if you have not!
+I'm actually the owner of a video game development team called Team Redefined so go check us out if you have not!
 I enjoy a lot of Japenese culture and such and also love Rabbits and Cats.
 I hope you enjoy what I make on here.
 
