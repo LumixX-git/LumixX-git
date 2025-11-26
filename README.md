@@ -6,7 +6,6 @@ Hello! I am a programmer who goes by the username LumixX on the internet.
 I develope video games and help with FRC stuff.
 I'm actually the owner of a video game/modding development team called Team Redefined so go check us out if you have not!
 I enjoy a lot of Japenese culture and such and also love Rabbits and Cats.
-I'm heavy on the exe community so I expect you to see some exe content lol.
 I also love Nintendo and collect a lot of their old games which actually inspires me to do a lot of things. 
 Hopefully I can be someone people look up to and if I already am than I am pretty greatful for that!
 I hope you enjoy what I make on here.
