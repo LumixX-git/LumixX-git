@@ -3,7 +3,7 @@
 <a href="https://www.apa.org/pi/lgbt/resources/bisexual"><img title="Bisexual" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/255px-Bisexual_Pride_Flag.svg.png" width="68"/> </h4> 
 
 Hello! I am a programmer who goes by the username LumixX on the internet.
-I develope video games and help with FRC stuff.
+I develop video games and help with FRC stuff.
 I'm actually the owner of a video game/modding development team called Team Redefined so go check us out if you have not!
 I enjoy a lot of Japenese culture and such and also love Rabbits and Cats.
 I also love Nintendo and collect a lot of their old games which actually inspires me to do a lot of things. 
