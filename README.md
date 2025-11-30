@@ -19,6 +19,7 @@ I hope you enjoy what I make on here.
 
 ## Other Info
 - I am currently programming in Haxe and JavaScript
-
+- I am in my softmore year in highschool working in computer science and art classes
+- I have 5 years of coding experience 
 
 
