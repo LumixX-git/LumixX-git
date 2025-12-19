@@ -24,5 +24,5 @@ I hope you enjoy what I make on here.
 - My actual name is Mila
 
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=LumixX&show_icons=true&theme=vue-onedark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumixX&layout=compact&show_icons=true&theme=vue-onedark)
+![](https://github-readme-stats.vercel.app/api?username=LumixX&show_icons=true&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumixX&layout=compact&show_icons=true&theme=onedark)
