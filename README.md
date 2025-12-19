@@ -21,5 +21,8 @@ I hope you enjoy what I make on here.
 - I am currently programming in Haxe and JavaScript
 - I am in my softmore year in highschool working in computer science and art classes
 - I have 5 years of coding experience 
+- My actual name is Mila
 
-
+## Github Stats
+![](https://github-readme-stats.vercel.app/api?username=LumixX-git&show_icons=true&theme=vue-onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LumixX-git&layout=compact&show_icons=true&theme=vue-onedark)
