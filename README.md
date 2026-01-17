@@ -21,6 +21,7 @@ I hope you enjoy what I make on here.
 - I am currently programming in Haxe and JavaScript
 - I am in my softmore year in highschool working in computer science and art classes
 - I have 5 years of coding experience 
+- I have had one year of FRC 
 - My actual name is Mila
 
 ## Github Stats
